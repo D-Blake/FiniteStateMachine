@@ -1,0 +1,6 @@
+c:\users\blake\documents\visual studio 2017\Projects\FiniteStateMachine\FiniteStateMachine\bin\Debug\FiniteStateMachine.exe.config
+c:\users\blake\documents\visual studio 2017\Projects\FiniteStateMachine\FiniteStateMachine\bin\Debug\FiniteStateMachine.exe
+c:\users\blake\documents\visual studio 2017\Projects\FiniteStateMachine\FiniteStateMachine\bin\Debug\FiniteStateMachine.pdb
+c:\users\blake\documents\visual studio 2017\Projects\FiniteStateMachine\FiniteStateMachine\obj\Debug\FiniteStateMachine.csprojResolveAssemblyReference.cache
+c:\users\blake\documents\visual studio 2017\Projects\FiniteStateMachine\FiniteStateMachine\obj\Debug\FiniteStateMachine.exe
+c:\users\blake\documents\visual studio 2017\Projects\FiniteStateMachine\FiniteStateMachine\obj\Debug\FiniteStateMachine.pdb
